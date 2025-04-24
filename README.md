@@ -6,7 +6,7 @@ all for learning
 后续将持续加强理论学习与切身实践。
 ## week02：
 这周所做工作就比较捞了(恩师轻批)。本周本来想独立做kaggle/competitions/classify-leaves的学习项目，然后变成了在kaggle上找了一些表现比较好的代码跑了一下，顺便温习了一下迁移学习，视频学习也在持续跟进(41/73)。
-[原作者代码](https://www.kaggle.com/code/wangdark/classify-leaves-resnet/notebook)
+kaggle/classify-leaves-resnet.ipynb[原作者代码](https://www.kaggle.com/code/wangdark/classify-leaves-resnet/notebook)
 
 遇到的问题：过程中发现作者自定义的LeaveDataset(Dataset)在jupyter中跑epoch会出问题(找不到该属性)，ai抛给我的一种解决办法是import自定义的该类。但不是长久之计，会不会是因为版本问题？
 
